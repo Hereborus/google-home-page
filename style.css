@@ -162,3 +162,7 @@ footer {
     gap: 20px;
 
 }
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
